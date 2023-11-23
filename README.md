@@ -32,7 +32,7 @@ width="40" /></a>
 <a href="https://www.codechef.com/users/prajjawal002"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prajjawal002" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prajjawal.kansara/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/prajjawal.kansara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/prajjawalkansara"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prajjawalkansara" height="30" width="40" /></a>
-<a href="https://discord.gg/846638630080610314"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="846638630080610314" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prajjawal-kansara/"><img align="center" src="https://www.freeiconspng.com/uploads/linkedin-9.png" alt="linkdin logo"  height="100" width="130" /></a> 
 </p>
 <br>
 
