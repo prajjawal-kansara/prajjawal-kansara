@@ -30,19 +30,22 @@
 <image src="https://media.tenor.com/GB17hfl_I_wAAAAj/yeah-emo.gif" width="30"> <b>Connect with me:</b>
 <hr>
 <p align="center">
-<a href="https://www.facebook.com/prajjawal.kansara">
+<a href="https://www.facebook.com/prajjawal.kansara" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=48&id=1di4EP9AaAfv&format=png" alt="Facebook logo" height="40" width="40" />
 </a>
-<a href="https://www.instagram.com/prajjawal.kansara/">
+<a href="https://www.instagram.com/prajjawal.kansara/" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=64&id=43625&format=png" alt="Instagram logo" height="40" width="40" />
 </a>  
-<a href="https://www.codechef.com/users/prajjawal002">
+<a href="https://www.codechef.com/users/prajjawal002" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=48&id=LnZMjt9rZC3d&format=png" alt="codechef logo" height="40" width="40" />
 </a>
-<a href="https://www.hackerrank.com/profile/prajjawalkansara">
+<a href="https://www.hackerrank.com/profile/prajjawalkansara" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Hackerrank logo" height="40" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/prajjawal-kansara/">
+<a href="mailto:prajjawalkansara@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/?size=64&id=48165&format=png"  alt="gmail logo" height="40" width="40" />
+</a>  
+<a href="https://www.linkedin.com/in/prajjawal-kansara/" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=48&id=HBElv73IyVGQ&format=png" alt="Linkdin logo"  height="40" width="40" />
 </a> 
 </p>
