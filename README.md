@@ -15,11 +15,11 @@
 <hr>
 
 
-- 🌱 I’m currently learning Data Structure and Algorithms, AI.
+- 🌱 I’m currently focused on Data Structures, and adapting new technologies.
   
 - 👯 I’m looking to collaborate on Projects.
   
-- 💬 Ask me about coding, errors, Cyber Security.
+- 💬 Ask me about coding, errors, Cyber Security, Logic Building, and Complex Problems.
   
 - ⚡ Fun fact: Always forget to save files.
 
