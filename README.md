@@ -102,7 +102,7 @@
 
 <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> <b> Stats: </b>
 <hr>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prajjawal-kansara&show_icons=true&locale=en" alt="prajjawal-kansara" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjawal-kansara&" alt="prajjawal-kansara" height="170" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prajjawal-kansara&show_icons=true&locale=en" alt="prajjawal-kansara" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjawal-kansara&" alt="prajjawal-kansara" height="150" /></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 <br>
