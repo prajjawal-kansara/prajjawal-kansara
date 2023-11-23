@@ -16,8 +16,11 @@
 
 
 - 🌱 I’m currently learning Data Structure and Algorithms, AI.
+  
 - 👯 I’m looking to collaborate on Projects.
+  
 - 💬 Ask me about coding, errors, Cyber Security.
+  
 - ⚡ Fun fact: Always forget to save files.
 
 
@@ -27,57 +30,73 @@
 <image src="https://media.tenor.com/GB17hfl_I_wAAAAj/yeah-emo.gif" width="30"> <b>Connect with me:</b>
 <hr>
 <p align="center">
-<a href="https://www.facebook.com/prajjawal.kansara"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prajjawal.kansara" height="30" 
-width="40" /></a>
-<a href="https://www.codechef.com/users/prajjawal002"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prajjawal002" height="30" width="40" /></a>
-<a href="https://www.instagram.com/prajjawal.kansara/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/prajjawal.kansara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/prajjawalkansara"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prajjawalkansara" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prajjawal-kansara/"><img align="center" src="https://www.freeiconspng.com/uploads/linkedin-9.png" alt="linkdin logo"  height="100" width="130" /></a> 
+<a href="https://www.facebook.com/prajjawal.kansara">
+  <img align="center" src="https://img.icons8.com/?size=48&id=1di4EP9AaAfv&format=png" alt="Facebook logo" height="40" width="40" />
+</a>
+<a href="https://www.instagram.com/prajjawal.kansara/">
+  <img align="center" src="https://img.icons8.com/?size=64&id=43625&format=png" alt="Instagram logo" height="40" width="40" />
+</a>  
+<a href="https://www.codechef.com/users/prajjawal002">
+  <img align="center" src="https://img.icons8.com/?size=48&id=LnZMjt9rZC3d&format=png" alt="codechef logo" height="40" width="40" />
+</a>
+<a href="https://www.hackerrank.com/profile/prajjawalkansara">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Hackerrank logo" height="40" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/prajjawal-kansara/">
+  <img align="center" src="https://img.icons8.com/?size=48&id=HBElv73IyVGQ&format=png" alt="Linkdin logo"  height="40" width="40" />
+</a> 
 </p>
 <br>
 
  <image src="https://media.tenor.com/vg6bfmQtCcAAAAAj/interesting-emo.gif" width="30"> <b>Languages and Tools:</b>
  <hr>
 <p align="center"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+ <img src="https://img.icons8.com/?size=48&id=j9DnICNnlhGk&format=png" alt="angular logo"
+   width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c logo" 
+   width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" 
+   width="40" height="40"/> 
+ <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="git logo"
+   width="40" height="40"/> 
+ <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="html logo" 
+   width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="css logo"
+   width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="java logo" 
+   width="40" height="40"/> 
+ <img src="https://img.icons8.com/?size=48&id=17842&format=png" alt="linux logo" 
+   width="40" height="40"/> 
+ <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="python logo" 
+   width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=80&id=VXQrhy9fWtm1&format=png" alt="react logo" 
+   width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png" alt="mongodb logo" 
+   width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="nodejs logo" 
+   width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=48&id=39913&format=png" alt="oracle logo" 
+   width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=48&id=qGUfLiYi1bRN&format=png" alt="mysql logo" 
+   width="40" height="40"/> 
+ <img src="https://img.icons8.com/?size=48&id=laYYF3dV0Iew&format=png" alt="mssql logo" 
+   width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=48&id=84710&format=png" alt="bootstarp logo" 
+   width="40" height="40"/> 
+ <img src="https://img.icons8.com/?size=48&id=108784&format=png" alt="javascript logo" 
+   width="40" height="40"/>
+ </p>  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img src="https://img.icons8.com/?size=80&id=s1rwrv9mNnN4&format=png" alt="github logo"  
+    width="40" height="40"  />
+  <img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" alt="vscode logo"  
+    width="40" height="40" />
+  <img src="https://img.icons8.com/?size=50&id=w1uD6vtDitjr&format=png" alt="eclipseide logo" 
+    width="40" height="40" />
+  <img src="https://img.icons8.com/?size=48&id=w1Gq29w4RQWL&format=png" alt="intellijidea logo" 
+    width="40" height="40" />
+  <img src="https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png" alt="canva logo"  
+    width="40" height="40" />
 </p>
 <br>
 
