@@ -39,6 +39,9 @@
 <a href="https://www.codechef.com/users/prajjawal002" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=48&id=LnZMjt9rZC3d&format=png" alt="codechef logo" height="40" width="40" />
 </a>
+<a href="https://twitter.com/_prajjawal_" target="_blank">
+  <img align="center" src="https://img.icons8.com/?size=48&id=EUr2Wc2Ic54x&format=png" alt="Twitter logo" height="40" width="40" />
+</a> 
 <a href="https://www.hackerrank.com/profile/prajjawalkansara" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Hackerrank logo" height="40" width="40" />
 </a>
