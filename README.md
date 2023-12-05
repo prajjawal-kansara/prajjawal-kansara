@@ -103,6 +103,8 @@
     width="40" height="40" />
   <img src="https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png" alt="canva logo"  
     width="40" height="40" />
+  <img src="https://img.icons8.com/?size=48&id=6RHskkZGRABM&format=png" alt="Sublime logo"
+    width="40" height="40" />
 </p>
 <br>
 
