@@ -15,7 +15,7 @@
 <hr>
 
 
-- 🌱 I’m currently focused on Data Structures, and adapting new technologies.
+- 🌱 I’m currently focused on adapting new skills.
   
 - 👯 I’m looking to collaborate on Projects.
   
