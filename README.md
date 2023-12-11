@@ -97,7 +97,7 @@
     width="40" height="40"  />
   <img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" alt="vscode logo"  
     width="40" height="40" />
-  <img src="https://img.icons8.com/?size=50&id=w1uD6vtDitjr&format=png" alt="eclipseide logo" 
+  <img src="https://cdn.icon-icons.com/icons2/3110/PNG/96/eclipse_icon_191751.png" alt="eclipseide logo" 
     width="40" height="40" />
   <img src="https://img.icons8.com/?size=48&id=w1Gq29w4RQWL&format=png" alt="intellijidea logo" 
     width="40" height="40" />
