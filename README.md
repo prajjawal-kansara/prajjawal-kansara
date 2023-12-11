@@ -13,7 +13,7 @@
 
 <img src="https://media.tenor.com/Klzqm1DesDgAAAAj/hi-emo.gif" width="30"> <b>About Me:</b>
 <hr>
-
+<img align ="right" src="https://media.tenor.com/fOD0TBLKQg8AAAAj/spider-man-no-way-home-marvel-studios.gif" width="100">
 
 - 🌱 I’m currently focused on adapting new skills.
   
@@ -122,5 +122,5 @@
 [![An image of @prajjawalalgos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajjawalalgos)](https://holopin.io/@prajjawalalgos)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img align ="left" src="https://media.tenor.com/fOD0TBLKQg8AAAAj/spider-man-no-way-home-marvel-studios.gif" width="70"><h3 align ="center"> Thankyou for Showing Interest </h3>
+<h3 align ="center"> Thankyou for Showing Interest </h3>
 <h4 align ="center"> Do follow for more! </h4>
