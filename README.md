@@ -42,15 +42,12 @@
 <a href="https://www.codechef.com/users/prajjawal002" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=48&id=LnZMjt9rZC3d&format=png" alt="codechef logo" height="40" width="40" />
 </a>  
-<a href="mailto:prajjawalkansara@gmail.com" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"  alt="gmail logo" height="40" width="40" />
-</a>  
 <a href="https://www.hackerrank.com/profile/prajjawalkansara" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Hackerrank logo" height="35" width="35" />
 </a>
-<a href="https://in.pinterest.com/prajjawalkansara/" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=48&id=63676&format=png" alt="Pinterest logo" height="40" weight="40"  />
-</a> 
+<a href="mailto:prajjawalkansara@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"  alt="gmail logo" height="40" width="40" />
+</a>  
 <a href="https://www.linkedin.com/in/prajjawal-kansara/" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=48&id=13930&format=png" alt="Linkdin logo"  height="40" width="40" />
 </a>    
