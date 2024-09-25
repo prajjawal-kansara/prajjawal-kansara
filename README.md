@@ -106,7 +106,6 @@
 <hr>
 <p align="center">&nbsp;<img src=https://github-readme-stats.vercel.app/api?username=prajjawal-kansara&theme=tokyonight&show_icons=true&hide_border=false&count_private=true height="160"/> <img src=https://github-readme-streak-stats.herokuapp.com/?user=prajjawal-kansara&theme=tokyonight&hide_border=false height="160"/> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 <br>
 
 
