@@ -51,56 +51,111 @@
  <image src="https://media.tenor.com/vg6bfmQtCcAAAAAj/interesting-emo.gif" width="30"> <b>Languages and Tools:</b>
  <hr>
 <p align="center"> 
- <img src="https://img.icons8.com/?size=48&id=j9DnICNnlhGk&format=png" alt="angular logo"
-   width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c logo" 
-   width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" 
-   width="40" height="40"/> 
- <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="git logo"
-   width="40" height="40"/> 
- <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="html logo" 
-   width="40" height="40"/>
- <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="css logo"
-   width="40" height="40"/>
- <img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="java logo" 
-   width="40" height="40"/> 
- <img src="https://img.icons8.com/?size=48&id=17842&format=png" alt="linux logo" 
-   width="40" height="40"/> 
- <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="python logo" 
-   width="40" height="40"/>
- <img src="https://img.icons8.com/?size=80&id=VXQrhy9fWtm1&format=png" alt="react logo" 
-   width="40" height="40"/>
- <img src="https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png" alt="mongodb logo" 
-   width="40" height="40"/>
- <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="nodejs logo" 
-   width="40" height="40"/>
- <img src="https://img.icons8.com/?size=48&id=39913&format=png" alt="oracle logo" 
-   width="40" height="40"/>
- <img src="https://img.icons8.com/?size=48&id=qGUfLiYi1bRN&format=png" alt="mysql logo" 
-   width="40" height="40"/> 
- <img src="https://img.icons8.com/?size=48&id=laYYF3dV0Iew&format=png" alt="mssql logo" 
-   width="40" height="40"/>
- <img src="https://img.icons8.com/?size=48&id=84710&format=png" alt="bootstarp logo" 
-   width="40" height="40"/> 
- <img src="https://img.icons8.com/?size=48&id=108784&format=png" alt="javascript logo" 
-   width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" alt="anaconda logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" alt="android-studio logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="bash logo" 
+   height="40"/> 
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="cpp logo"
+   height="40"/> 
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" alt="cloudfare logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="docker logo" 
+   height="40"/> 
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="express logo" 
+   height="40"/> 
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg" alt="firebase logo" 
+    height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" alt="gcp logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Heroku.svg" alt="heroku logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="java logo" 
+   height="40"/> 
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux logo" 
+   height="40"/> 
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="md logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongo logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" alt="neovimlogo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="nextjs logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Npm-Dark.svg" alt="npm logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" alt="opencv logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Pkl-Dark.svg" alt="pkl logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="postgreSQLlogo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" alt="powershell logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" alt="pytorch logo" 
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Replit-Dark.svg" alt="replit logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" alt="sklearn logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="tailwind logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" alt="tensorflow logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" alt="ubuntu logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" alt="vercel logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" alt="vim logo"
+   height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="vite logo"
+   height="40"/>
  </p>  
+
 <p align="center">
-  <img src="https://img.icons8.com/?size=80&id=s1rwrv9mNnN4&format=png" alt="github logo"  
-    width="40" height="40"  />
-  <img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" alt="vscode logo"  
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="github logo"  
+    height="40"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode logo"  
     width="40" height="40" />
-  <img src="https://cdn.icon-icons.com/icons2/3110/PNG/96/eclipse_icon_191751.png" alt="eclipseide logo" 
-    width="40" height="40" />
-  <img src="https://img.icons8.com/?size=48&id=w1Gq29w4RQWL&format=png" alt="intellijidea logo" 
-    width="40" height="40" />
-  <img src="https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png" alt="canva logo"  
-    width="40" height="40" />
-  <img src="https://img.icons8.com/?size=48&id=6RHskkZGRABM&format=png" alt="Sublime logo"
-    width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipseide logo" 
+    height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="intellijidea logo" 
+    height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sublime-Dark.svg" alt="Sublime logo"
+    height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="logo"
+    height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="logo"
+    height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" alt="logo"
+    height="40"/>
 </p>
 <br>
+
+<img src="https://media.tenor.com/abJOK_lc6S0AAAAj/sleep-emo.gif" width="30"> <b> Holopin Badges: </b>
+<hr>
+
+[![An image of @prajjawalalgos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajjawalalgos)](https://holopin.io/@prajjawalalgos)
+
 
 <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> <b> Stats: </b>
 <hr>
@@ -108,12 +163,5 @@
 
 <br>
 
-
-<img src="https://media.tenor.com/abJOK_lc6S0AAAAj/sleep-emo.gif" width="30"> <b> Holopin Badges: </b>
-<hr>
-
-[![An image of @prajjawalalgos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajjawalalgos)](https://holopin.io/@prajjawalalgos)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align ="center"> Thankyou for Showing Interest </h3>
 <h4 align ="center"> Do follow for more! </h4>
