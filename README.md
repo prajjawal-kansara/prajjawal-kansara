@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi , I'm Prajjawal Kansara</h1>
-<h3 align="center">A passionate developer from India, currently I'm pursuing my master's studies in computer application.</h3>
+<h3 align="center">A passionate developer from India, I'm currently pursuing my master's studies in computer application.</h3>
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prajjawal-kansara&label=Profile%20views&color=0e75b6&style=flat" alt="prajjawal-kansara" />
   <img alt="GitHub Badge" src="https://img.shields.io/github/followers/prajjawal-kansara?label=Followers&amp?" style="max-width: 100%;">
@@ -15,15 +15,10 @@
 <hr>
 <img align ="right" src="https://media.tenor.com/fOD0TBLKQg8AAAAj/spider-man-no-way-home-marvel-studios.gif" width="100">
 
-- 🌱 I’m currently focused on adapting new skills.
-  
-- 👯 I’m looking to collaborate on Projects.
-  
-- 💬 Ask me about coding, errors, Cyber Security, Logic Building, and Complex Problems.
-  
-- ⚡ Fun fact: Always forget to save files.
-
-
+- I like combining my technical knowledge with design to make beautiful and efficient applications.
+- I aim to build scalable and efficient software while providing engaging and flawless user experiences.
+- Always exploring new **technologies** to push the boundaries of **software architecture**.
+- Fun fact: I’ve lost count of how many times I’ve coded for hours, only to forget to save the file!
 <br>
 
 
@@ -31,19 +26,19 @@
 <hr>
 <p align="center">
 <a href="https://twitter.com/_prajjawal_" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=48&id=ClbD5JTFM7FA&format=png" alt="Twitter logo" height="40" width="40" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="Twitter logo" height="40" />
 </a> 
 <a href="https://www.hackerrank.com/profile/prajjawalkansara" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Hackerrank logo" height="35" width="35" />
+  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hackerrank logo" height="40" />
 </a>
 <a href="https://www.codechef.com/users/prajjawal002" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=48&id=LnZMjt9rZC3d&format=png" alt="codechef logo" height="40" width="40" />
 </a>  
 <a href="mailto:prajjawalkansara@gmail.com" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"  alt="gmail logo" height="40" width="40" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"  alt="gmail logo" height="40" />
 </a>  
 <a href="https://www.linkedin.com/in/prajjawal-kansara/" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=48&id=13930&format=png" alt="Linkdin logo"  height="40" width="40" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Linkdin logo"  height="40" />
 </a>    
 </p>
 <br>
@@ -89,8 +84,6 @@
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL logo" 
    height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" alt="neovimlogo" 
-   height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="nextjs logo" 
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs logo" 
@@ -123,7 +116,7 @@
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" alt="ubuntu logo"
    height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" alt="vercel logo"
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="latex logo"
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" alt="vim logo"
    height="40"/>
