@@ -154,7 +154,10 @@
 <hr>
 <p align="center">&nbsp;<img src=https://github-readme-stats.vercel.app/api?username=prajjawal-kansara&theme=tokyonight&show_icons=true&hide_border=false&count_private=true height="160"/> <img src=https://github-readme-streak-stats.herokuapp.com/?user=prajjawal-kansara&theme=tokyonight&hide_border=false height="160"/> </p>
 
+
+![prajjawal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prajjawal-kansara&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)
+
 <br>
 
-<h3 align ="center"> Thankyou for Showing Interest </h3>
+<h3 align ="center"> Thank's for Showing Interest </h3>
 <h4 align ="center"> Do follow for more! </h4>
