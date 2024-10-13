@@ -64,6 +64,8 @@
    height="40"/> 
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg" alt="firebase logo" 
     height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" alt="flask logo" 
+    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" alt="gcp logo" 
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git logo" 
