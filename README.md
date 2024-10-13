@@ -122,8 +122,8 @@
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" alt="vim logo"
    height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="vite logo"
-   height="40"/>
+<!--  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="vite logo"
+   height="40"/> -->
  </p>  
 
 <p align="center">
