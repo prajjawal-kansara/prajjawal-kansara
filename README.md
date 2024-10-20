@@ -160,7 +160,7 @@
 <!-- ![prajjawal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prajjawal-kansara&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true) -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajjawal-kansara&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true" style="width: 95%;" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajjawal-kansara&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true" style="width: 94%;" alt="GitHub Activity Graph">
 </p>
 
 
