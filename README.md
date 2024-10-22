@@ -2,17 +2,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 </p>
 
-
-
 <h1 align="center">Hi , I'm Prajjawal Kansara</h1>
 <h3 align="center">A passionate developer from India, I'm currently pursuing my master's studies in computer application.</h3>
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prajjawal-kansara&label=Profile%20views&color=0e75b6&style=flat" alt="prajjawal-kansara" />
   <img alt="GitHub Badge" src="https://img.shields.io/github/followers/prajjawal-kansara?label=Followers&amp?" style="max-width: 100%;">
- </p>
+</p>
 
-<img src="https://media.tenor.com/Klzqm1DesDgAAAAj/hi-emo.gif" width="30"> <b>About Me:</b>
-<hr>
+<h2><img src="https://media.tenor.com/Klzqm1DesDgAAAAj/hi-emo.gif" width="30"> About Me:</h2>
+
 <img align ="right" src="https://media.tenor.com/fOD0TBLKQg8AAAAj/spider-man-no-way-home-marvel-studios.gif" width="100">
 
 - I like combining my technical knowledge with design to make beautiful and efficient applications.
@@ -22,29 +20,20 @@
 <br>
 
 
-<image src="https://media.tenor.com/GB17hfl_I_wAAAAj/yeah-emo.gif" width="30"> <b>Connect with me:</b>
-<hr>
+<h2><image src="https://media.tenor.com/GB17hfl_I_wAAAAj/yeah-emo.gif" width="30"> Connect with me:</h2>
+
 <p align="center">
-<a href="https://twitter.com/_prajjawal_" target="_blank">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="Twitter logo" height="40" />
-</a> 
-<a href="https://www.hackerrank.com/profile/prajjawalkansara" target="_blank">
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hackerrank logo" height="40" />
-</a>
-<a href="https://www.codechef.com/users/prajjawal002" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=48&id=LnZMjt9rZC3d&format=png" alt="codechef logo" height="40" width="40" />
-</a>  
-<a href="mailto:prajjawalkansara@gmail.com" target="_blank">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"  alt="gmail logo" height="40" />
-</a>  
-<a href="https://www.linkedin.com/in/prajjawal-kansara/" target="_blank">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Linkdin logo"  height="40" />
-</a>    
+    <a href="https://www.linkedin.com/in/prajjawal-kansara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:prajjawalkansara@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.codechef.com/users/prajjawal002" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white"/></a>
+    <a href="https://www.hackerrank.com/profile/prajjawalkansara" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a>
+    <a href="https://discord.com/users/846638630080610314" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> 
+    <a href="https://twitter.com/_prajjawal_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
 </p>
 <br>
 
- <image src="https://media.tenor.com/vg6bfmQtCcAAAAAj/interesting-emo.gif" width="30"> <b>Languages and Tools:</b>
- <hr>
+ <h2><image src="https://media.tenor.com/vg6bfmQtCcAAAAAj/interesting-emo.gif" width="30"> Languages and Tools:</h2>
+ 
 <p align="center"> 
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" alt="anaconda logo"
    height="40"/>
@@ -148,25 +137,18 @@
 </p>
 <br>
 
-<img src="https://media.tenor.com/abJOK_lc6S0AAAAj/sleep-emo.gif" width="30"> <b> Holopin Badges: </b>
-<hr>
+<h2><img src="https://media.tenor.com/abJOK_lc6S0AAAAj/sleep-emo.gif" width="30"> Holopin Badges:</h2>
 
 [![An image of @prajjawalalgos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajjawalalgos)](https://holopin.io/@prajjawalalgos)
 
 
-<img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> <b> Stats: </b>
-<hr>
+<h2><img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> Stats:</h2>
+
 <p align="center">&nbsp;<img src=https://github-readme-stats.vercel.app/api?username=prajjawal-kansara&theme=tokyonight&show_icons=true&hide_border=false&count_private=true height="160"/> <img src=https://github-readme-streak-stats.herokuapp.com/?user=prajjawal-kansara&theme=tokyonight&hide_border=false height="160"/> </p>
-
-
-<!-- ![prajjawal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prajjawal-kansara&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true) -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajjawal-kansara&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true" style="width: 94%;" alt="GitHub Activity Graph">
 </p>
-
-
-
 
 <br>
 
