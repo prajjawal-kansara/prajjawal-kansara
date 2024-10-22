@@ -98,8 +98,6 @@
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="postgreSQLlogo" 
    height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman logo" 
-   height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" alt="powershell logo" 
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python logo" 
@@ -122,8 +120,8 @@
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" alt="vim logo"
    height="40"/>
-<!--  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="vite logo"
-   height="40"/> -->
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="vite logo"
+   height="40"/>
  </p>  
 
 <p align="center">
@@ -137,12 +135,16 @@
     height="40" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sublime-Dark.svg" alt="Sublime logo"
     height="40" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="logo"
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="Figma logo"
     height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="logo"
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion logo"
     height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" alt="logo"
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" alt="Pycharm logo"
     height="40"/>
+ <img src="https://www.icon0.com/wp-content/uploads/2023/01/10068-1173803.png" alt="Canva logo"
+    height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman logo" 
+   height="40"/>
 </p>
 <br>
 
