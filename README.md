@@ -50,7 +50,7 @@
    height="40"/> 
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="cpp logo"
    height="40"/> 
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" alt="cloudfare logo" 
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" alt="Cloudflare logo" 
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css logo"
    height="40"/>
