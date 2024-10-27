@@ -5,8 +5,10 @@
 <h1 align="center">Hi , I'm Prajjawal Kansara</h1>
 <h3 align="center">A passionate developer from India, I'm currently pursuing my master's studies in computer application.</h3>
 <br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=prajjawal-kansara&label=Profile%20views&color=0e75b6&style=flat" alt="prajjawal-kansara" />
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=prajjawal-kansara&label=Visitors%20&color=0e75b6&style=flat" alt="prajjawal-kansara" />
   <img alt="GitHub Badge" src="https://img.shields.io/github/followers/prajjawal-kansara?label=Followers&amp?" style="max-width: 100%;">
+  <a href="https://github.com/prajjawal-kansara?tab=stars"><img src="https://img.shields.io/github/stars/prajjawal-kansara?logo=github"></a>
 </p>
 
 <h2><img src="https://media.tenor.com/Klzqm1DesDgAAAAj/hi-emo.gif" width="30"> About Me:</h2>
@@ -28,7 +30,7 @@
     <a href="https://www.codechef.com/users/prajjawal002" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white"/></a>
     <a href="https://www.hackerrank.com/profile/prajjawalkansara" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a>
     <a href="https://discord.com/users/846638630080610314" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> 
-    <a href="https://twitter.com/_prajjawal_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
+    <a href="https://x.com/_prajjawal_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&labelColor=1ca0f1&logo=X&logoColor=white"/></a>
 </p>
 <br>
 
