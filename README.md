@@ -105,12 +105,14 @@
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" alt="tensorflow logo"
    height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="typescript logo"
+   height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" alt="ubuntu logo"
    height="40"/>
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" alt="latex logo"
    height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" alt="vim logo"
-   height="40"/>
+<!--  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" alt="vim logo"
+   height="40"/> -->
  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="vite logo"
    height="40"/>
  </p>  
