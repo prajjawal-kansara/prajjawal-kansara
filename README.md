@@ -32,9 +32,13 @@
     <a href="https://discord.com/users/846638630080610314" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> 
     <a href="https://x.com/_prajjawal_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&labelColor=1ca0f1&logo=X&logoColor=white"/></a>
 </p>
-<br>
+<be>
 
- <h2><image src="https://media.tenor.com/vg6bfmQtCcAAAAAj/interesting-emo.gif" width="30"> Languages and Tools:</h2>
+<h2><img src="https://media.tenor.com/vg6bfmQtCcAAAAAj/interesting-emo.gif" width="30"> Holopin Badges:</h2>
+
+[![An image of @prajjawalalgos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajjawalalgos)](https://holopin.io/@prajjawalalgos)
+
+<h2><image src="https://media.tenor.com/abJOK_lc6S0AAAAj/sleep-emo.gif" width="30"> Languages and Tools:</h2>
  
 <p align="center"> 
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" alt="anaconda logo"
@@ -140,11 +144,6 @@
    height="40"/>
 </p>
 <br>
-
-<h2><img src="https://media.tenor.com/abJOK_lc6S0AAAAj/sleep-emo.gif" width="30"> Holopin Badges:</h2>
-
-[![An image of @prajjawalalgos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajjawalalgos)](https://holopin.io/@prajjawalalgos)
-
 
 <h2><img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="30"> Stats:</h2>
 
